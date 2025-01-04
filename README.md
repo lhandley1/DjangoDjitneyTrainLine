@@ -1,4 +1,4 @@
-# Django Djitney Train Line Website
+# Django Djitney Train Line Web Application
 ## Summary
 My third Django project assisted by Codeacedemy as part of the Build Python Web Apps with Django course. The task was to develop website functionality to show, create, update and delete: routes, stations and stops.
 
